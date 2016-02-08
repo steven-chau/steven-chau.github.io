@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Tech Tricks in bite size 
+title: Tech Tricks in Bite Size
 
 # Short description of your site
 description: Programming, Linux, Google usage tricks presented in bite size by Steven Chau
@@ -29,7 +29,7 @@ avatar: "/img/avatar-icon.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
-  Author's home: "http://steven-chau.github.io"
+  Author on GitHub: "http://steven-chau.github.io"
   
 # --- Footer options --- #
 
