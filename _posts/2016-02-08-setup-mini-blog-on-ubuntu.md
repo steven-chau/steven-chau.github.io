@@ -2,7 +2,6 @@
 layout: post
 title: How to set up a mini blog on Ubuntu in under 15 minutes
 subtitle: Video Tutorial
-date: 2016-02-09
 published: true
 ---
 
